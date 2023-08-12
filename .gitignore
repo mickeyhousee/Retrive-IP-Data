@@ -145,6 +145,8 @@ dmypy.json
 cython_debug/
 
 Tests/ips.csv
+main/ips.csv
+.vscode
 
 
 
