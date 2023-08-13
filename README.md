@@ -1,4 +1,4 @@
-The code you have provided is a Python script that can be used to extract information about IP addresses. The script uses the IP-API.com API to get information such as the country, city, and ISP for a given IP address.
+Python script that can be used to extract information about IP addresses. The script uses the IP-API.com API to get information such as the country, city, and ISP for a given IP address.
 
 The script is divided into two functions:
 
